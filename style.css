@@ -31,3 +31,8 @@ section{
     background-image: url(Images/developer-portfolio-master/images/top-banner.png);
     background-repeat: no-repeat;
 }
+.part2{
+    background-image: url(Images/developer-portfolio-master/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
