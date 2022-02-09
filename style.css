@@ -8,15 +8,17 @@ h1{
 
 .orange{color: orange;}
 .pera{text-align: justify;}
+
 section{
     display: flex;
 }
+
 .half{
     width: 50%;
     
     padding: 5%;
 }
-.half img{width: 100%;}
+.half img{width: 80%;}
 .link{
     text-decoration: none;
     color: wheat;
