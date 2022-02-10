@@ -36,3 +36,28 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.expriences{
+    box-shadow: 10px 10px 40px gray ;
+    width: 40%;
+    margin: 5% 5%;
+    padding: 5%;
+    border-radius: 10px;
+}
+.part3{
+    background-image: url(Images/developer-portfolio-master/images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#side-bar1{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato,orange) ;
+    border-image-slice: 1;
+}
+#side-bar2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+    footer p{
+        text-align: center;
+    }
